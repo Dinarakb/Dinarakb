@@ -1,5 +1,9 @@
-# LETS FLY HIGHER MORE THAN SKY
+<h1 align='center'>
+  LETS FLY HIGHER THAN SKY
+</h1>
+<!-- spell-checker: disable -->
 ![Dinarakb](assets/HEADER.png)
-## GREETINGS MY NAME IS MUHAMMAD TAUFIQ DINAR AKBAR ![Profile](assets/fujitora.gif)
+## GREETING MY NAME IS MUHAMMAD TAUFIQ DINAR AKBAR ![Profile](assets/fujitora.gif)
+<!-- spell-checker: enable -->
 
 
