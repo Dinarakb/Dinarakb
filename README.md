@@ -5,9 +5,9 @@
   <img src="assets/HEADER.png" alt="Dinarakb">
 </p>
 
-## GREETING MY NAME IS MUHAMMAD TAUFIQ DINAR AKBAR
 
 <p align="center">
+<h1>Greeting My Name Is Muhammad Taufiq Dinar Akbar</h1>
   <img src="assets/fujitora.gif" alt="Profile">
 </p>
 
