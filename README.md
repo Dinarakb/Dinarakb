@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<h1>Greeting My Name Is Muhammad Taufiq Dinar Akbar</h1>
+<h1 align="center">Greeting My Name Is Muhammad Taufiq Dinar Akbar</h1>
   <img src="assets/fujitora.gif" alt="Profile">
 </p>
 
